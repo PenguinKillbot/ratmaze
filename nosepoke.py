@@ -6,6 +6,8 @@ satiation level by (some amount) and open an exit option that takes them forward
 simultaneously removing the previous exit option, which only allowed the to go backward.
 """
 
+fakevariable = "This is a fake variable"
+
 satLevel = 0
 #take this out. it's just here to avoid error messages
 
